@@ -30,3 +30,4 @@ impl IPTokenizationContract {
         env.storage().instance().set(&symbol_short!("IPS"), &ip_map);
     }
 }
+<img width="1878" height="889" alt="Screenshot 2026-03-27 133649" src="https://github.com/user-attachments/assets/28c91917-6ad6-4e25-818d-113525101a55" />
